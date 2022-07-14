@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+#title {
+  font-size: 3rem;
+}
+
+.topnav a {
+  font-size: 1.5rem;
+  padding: 20px;
+}
+
+.topnav {
+  background-color: rgb(72, 151, 230);
+  color: white;
+  padding: 10px;
+}
+
+.headline {
+  background-color: rgb(155, 150, 150);
+  font-size: 1.2rem;
+  margin: 20px;
+  padding: 20px;
+}
+
+.article p {
+  margin: 20px;
+  margin-left: 20px;
+  padding: 20px;
+  color: blue;
+  font-size: 17px;
+}
+.article {
+  position: absolute;
+}
+
+.article span {
+  padding: 20px;
+}
